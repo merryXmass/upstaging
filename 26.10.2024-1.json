@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Lopez",
+    "age": 81,
+    "address": {
+        "street": "Mary Fords",
+        "city": "South Dale",
+        "state": "Kentucky",
+        "zip": "32416"
+    },
+    "contact": {
+        "phone": "453-251-3726x428",
+        "servicePhone": "800404416"
+    },
+    "birthday": "1944-26-11",
+    "ip": "106.68.237.77",
+    "foo": "bar",
+    "profile": {
+        "about": "Think often mission focus green stuff. Particularly figure any practice.\nWorker contain probably see name let statement. International almost young senior focus job attack.",
+        "bio": "Candidate only car service soon.\nMight according young professor seem red always husband. Heavy relate give finally. Later write blue medical stand concern hotel."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
