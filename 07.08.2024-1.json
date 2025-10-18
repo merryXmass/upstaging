@@ -1,0 +1,25 @@
+{
+    "name": "Tyler Patton",
+    "age": 4,
+    "address": {
+        "street": "Brown Plaza",
+        "city": "East Jennifer",
+        "state": "Washington",
+        "zip": "13814"
+    },
+    "contact": {
+        "phone": "944-468-2208x18567",
+        "servicePhone": "800439493"
+    },
+    "birthday": "2021-05-05",
+    "ip": "165.246.14.26",
+    "foo": "bar",
+    "profile": {
+        "about": "Responsibility recognize nice along marriage painting. Arrive better edge. Wide issue down by try will discover. Life difficult heart summer force.",
+        "bio": "Particular onto loss throughout. Year peace study act. Simply artist act.\nRed at song. Election as condition former dinner. When feel his charge happy goal arrive."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}
