@@ -1,0 +1,25 @@
+{
+    "name": "Debbie Wilson",
+    "age": 70,
+    "address": {
+        "street": "Zamora Pine",
+        "city": "North Traceyview",
+        "state": "Nebraska",
+        "zip": "49872"
+    },
+    "contact": {
+        "phone": "8388033487",
+        "servicePhone": "800573877"
+    },
+    "birthday": "1955-26-10",
+    "ip": "184.143.219.92",
+    "foo": "bar",
+    "profile": {
+        "about": "Above friend around site.\nSign audience alone alone. Base law bad author trip any forward.\nParticipant affect finish green figure. Strategy by friend participant.",
+        "bio": "True gas leg bill account hope general. Commercial choose tend watch accept will around. Sit son social professional parent health."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}
