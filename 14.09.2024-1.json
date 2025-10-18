@@ -1,0 +1,25 @@
+{
+    "name": "Kathleen Schmidt",
+    "age": 16,
+    "address": {
+        "street": "Gray Park",
+        "city": "Evansville",
+        "state": "Ohio",
+        "zip": "12127"
+    },
+    "contact": {
+        "phone": "001-317-830-8462x4978",
+        "servicePhone": "800724106"
+    },
+    "birthday": "2009-20-01",
+    "ip": "142.158.155.17",
+    "foo": "bar",
+    "profile": {
+        "about": "Reach particularly school fly no race. Local create from page first great table.\nHope argue less pass. Away should money might white little cup today.",
+        "bio": "Television much rock. Though fill man its one manage spring wrong. Bar couple fill structure evidence these ok."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}
