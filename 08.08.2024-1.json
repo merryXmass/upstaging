@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Williams",
+    "age": 80,
+    "address": {
+        "street": "Lisa Rue",
+        "city": "Charlesbury",
+        "state": "Iowa",
+        "zip": "69864"
+    },
+    "contact": {
+        "phone": "001-983-822-6936x57873",
+        "servicePhone": "800658525"
+    },
+    "birthday": "1945-10-02",
+    "ip": "173.35.166.40",
+    "foo": "bar",
+    "profile": {
+        "about": "Decade term apply range. Investment improve operation page per do. Believe guess we final on security level president. Report message position.",
+        "bio": "Way tonight affect. Reason thousand million to recognize check too."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}
