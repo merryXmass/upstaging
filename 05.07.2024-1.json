@@ -1,0 +1,25 @@
+{
+    "name": "Alisha Kirby",
+    "age": 1,
+    "address": {
+        "street": "Betty Row",
+        "city": "Joestad",
+        "state": "Delaware",
+        "zip": "04596"
+    },
+    "contact": {
+        "phone": "(424)859-6636",
+        "servicePhone": "800317146"
+    },
+    "birthday": "2024-07-01",
+    "ip": "25.215.123.25",
+    "foo": "bar",
+    "profile": {
+        "about": "Model serious see painting heavy another establish me. Here significant question respond short.",
+        "bio": "Result set foreign worker. Imagine answer behind people both since agree."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}
