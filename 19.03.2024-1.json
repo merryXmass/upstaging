@@ -1,0 +1,25 @@
+{
+    "name": "Jesus Washington",
+    "age": 103,
+    "address": {
+        "street": "Archer Vista",
+        "city": "Rosalesfort",
+        "state": "Connecticut",
+        "zip": "21614"
+    },
+    "contact": {
+        "phone": "(350)729-3505x0621",
+        "servicePhone": "800644708"
+    },
+    "birthday": "1922-23-08",
+    "ip": "54.33.63.204",
+    "foo": "bar",
+    "profile": {
+        "about": "Place approach bit meeting lose. Sing speak exactly listen. Book eight later star future party reveal.",
+        "bio": "Marriage officer too father plant occur.\nMiddle attorney often indeed will contain. Report message trial state. Moment available respond drug free."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}
