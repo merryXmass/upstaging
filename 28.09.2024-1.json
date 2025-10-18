@@ -1,0 +1,25 @@
+{
+    "name": "Lauren Miller",
+    "age": 66,
+    "address": {
+        "street": "Joshua Circle",
+        "city": "Middletonborough",
+        "state": "Delaware",
+        "zip": "96822"
+    },
+    "contact": {
+        "phone": "001-350-491-0831x3097",
+        "servicePhone": "800173753"
+    },
+    "birthday": "1959-07-05",
+    "ip": "138.85.156.130",
+    "foo": "bar",
+    "profile": {
+        "about": "Response minute tax part word front think. Animal miss yes statement artist news.",
+        "bio": "Tonight her visit quality trade animal. Firm lose already not could for player.\nRange society difficult magazine technology process agreement worker. Much off behavior fund blood care."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}
