@@ -1,0 +1,25 @@
+{
+    "name": "Andrea Davis",
+    "age": 25,
+    "address": {
+        "street": "Wendy Wells",
+        "city": "Lake Jennifershire",
+        "state": "New Hampshire",
+        "zip": "01244"
+    },
+    "contact": {
+        "phone": "+1-583-566-3479x486",
+        "servicePhone": "800588814"
+    },
+    "birthday": "2000-10-08",
+    "ip": "53.99.23.209",
+    "foo": "bar",
+    "profile": {
+        "about": "Above live husband since. Method product however oil drop work.\nRespond debate president any truth. Economy stay bring.",
+        "bio": "Girl against party move. Position growth lead else. Recent believe media.\nNext media share painting idea wide. Easy enjoy know former state often feeling."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
