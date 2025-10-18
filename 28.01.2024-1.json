@@ -1,0 +1,25 @@
+{
+    "name": "Christian Mendoza",
+    "age": 44,
+    "address": {
+        "street": "Jeffrey Mews",
+        "city": "North Kellyfort",
+        "state": "Louisiana",
+        "zip": "25163"
+    },
+    "contact": {
+        "phone": "001-585-247-7306x6558",
+        "servicePhone": "800332868"
+    },
+    "birthday": "1981-19-08",
+    "ip": "221.60.197.6",
+    "foo": "bar",
+    "profile": {
+        "about": "Into total degree person cover. Use west away lawyer teach thought. Dinner marriage attack class everything foot.\nCrime every possible sell feeling help industry. Growth citizen will relate put.",
+        "bio": "Area want sing both show thought people. Play they letter authority prepare. Fly road western catch catch thought step."
+    },
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}
