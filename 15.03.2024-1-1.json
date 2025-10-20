@@ -1,0 +1,25 @@
+{
+    "name": "Theresa Coffey",
+    "age": 59,
+    "address": {
+        "street": "Harvey River",
+        "city": "Veronicamouth",
+        "state": "Arkansas",
+        "zip": "06347"
+    },
+    "contact": {
+        "phone": "001-617-685-1069x353",
+        "servicePhone": "800310131"
+    },
+    "birthday": "1966-13-09",
+    "ip": "222.84.24.86",
+    "foo": "bar",
+    "profile": {
+        "about": "You newspaper no never. Firm always increase series. Girl another wife catch officer.\nFocus hold try begin phone strategy. Must strategy ability stop alone. Somebody TV film talk.",
+        "bio": "Half beautiful institution compare help. Beautiful owner employee specific because matter especially student. Dark much agency administration."
+    },
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}
