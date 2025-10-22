@@ -1,0 +1,25 @@
+{
+    "name": "Joe Chambers",
+    "age": 89,
+    "address": {
+        "street": "Jonathan Summit",
+        "city": "New Jennafort",
+        "state": "Iowa",
+        "zip": "05132"
+    },
+    "contact": {
+        "phone": "+1-673-351-4947x408",
+        "servicePhone": "800266732"
+    },
+    "birthday": "1936-19-04",
+    "ip": "191.65.136.101",
+    "foo": "bar",
+    "profile": {
+        "about": "Price positive suffer shake up rather. Travel light with record.\nExample box team deep public sea baby. Section human become another lot usually recognize which.",
+        "bio": "Race will arrive collection many find. Five amount wind. Rich pick nation age sing mission. Relationship operation success far appear voice space get.\nPrepare risk claim many sit."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}
